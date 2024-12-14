@@ -8,6 +8,6 @@
 I am a generalist front-end, WordPress developer, UI designer.
 
 - 🔭 I’m currently working on [Spruce CSS Framework](https://sprucecss.com/).
-- 📝 Making [Bite-Sized Accessibility]([https://bite-sized-a11y.com/](https://adamlaki.com/bite-sized-accessibility/)).
+- 📝 Making [Bite-Sized Accessibility](https://adamlaki.com/bite-sized-accessibility/).
 - 🎯 Focusing on accessibility.
 - 📫 You can reach me at: [info@adamlaki.com](mailto:info@adamlaki.com), [@_iamadam](https://twitter.com/_iamadam).
